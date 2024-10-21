@@ -1,0 +1,17 @@
+{
+  "version": "4",
+  "specifiers": {
+    "npm:factorio-blueprint@*": "2.6.5"
+  },
+  "npm": {
+    "factorio-blueprint@2.6.5": {
+      "integrity": "sha512-BzTAr70EYs1aCZtO73cH0F0nWv/4m0ATdrJZxMd6ORDW5s0hbiNzz970X8cRDigQbHdRenmYyXnBqRp5jy/Chg=="
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "npm:prettyjson@*",
+      "npm:victor@*"
+    ]
+  }
+}

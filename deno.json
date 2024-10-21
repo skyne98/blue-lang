@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "prettyjson": "npm:prettyjson",
+        "victor": "npm:victor"
+    }
+  }
+  
